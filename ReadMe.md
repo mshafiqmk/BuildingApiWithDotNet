@@ -15,7 +15,7 @@ This is simple demo of building web api using asp.net core and entity framework 
 * Run the application.
 
 
-This project using Chinook database
+This project use Chinook database
 
-##Author 
+## Author 
 Muhammad Shafiq 

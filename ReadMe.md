@@ -1,7 +1,8 @@
 # Building Web Api Using Asp.net Core and Enity Frame Work
 
 This is simple demo of building web api using asp.net core and entity framework core
-
+## Build Status
+[![Build Status](https://shafiqprojects.visualstudio.com/React%20With%20Typescript/_apis/build/status/shafiqkhuidad.BuildingApiWithDotNet?branchName=master)](https://shafiqprojects.visualstudio.com/React%20With%20Typescript/_build/latest?definitionId=5?branchName=master)
 ## Prerequirements
 
 * Visual Studio 2017
